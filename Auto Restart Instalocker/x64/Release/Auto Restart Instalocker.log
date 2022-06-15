@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\ogata\Documents\C++\Auto Restart Instalocker\Auto Restart Instalocker\main.cpp(16,21): warning C4101: 'run': unreferenced local variable
+  Generating code
+  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Auto Restart Instalocker.vcxproj -> C:\Users\ogata\Documents\C++\Auto Restart Instalocker\x64\Release\Auto Restart Instalocker.exe
